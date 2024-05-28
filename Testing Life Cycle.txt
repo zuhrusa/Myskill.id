@@ -1,0 +1,35 @@
+TESTING LIFE CYCLE
+Testing Life Cycle adalah tahapan terstruktur yang digunakan untuk pengujian perangkat lunak dengan tujuan untuk memastikan kualitas produk yang dihasilkan. Testing Life Cycle memiliki enam tahapan 
+
+![Apps](
+
+1. Requirement Analysis
+tahap ini merupakan tahap pertama dari Testing Life Cycle. Pada tahap ini tim QA akan berkolaborasi dengan tim Developer dan lainnya agar dapat memahami dengan baik persyaratan dan kebutuhan pengguna terhadap perangkat lunak yang akan diuji. hasil dari kolaborasi ini akan menjadi acuan dalam merancang test case selanjutnya. 
+
+peran qa dalam tahap ini 
+a. mengidentifikasi jenis test yang akan dilakukan 
+b. mengumpulkan detail prioritas dan fokus pengujian 
+c. membuat requirement traceability matrix (RTM)
+d. identifikasi detail lingkungan pengujian dan alokasi pengujian seharusna dilakukan
+e. melakukan automation feasibility analysis jika diperlukan. 
+
+2. Test planning 
+Tahap kedua yakni test planning atau perencanaan pengujian. pada tahap ini QA membuat perencanaan pengujian secara rinci  termasuk ruang lingkup pengujian, sumber daya yang dibutuhlan dan jadwal pelaksanaan dan prioritas pengujian. 
+ ![Apps](
+
+3. Test case development 
+Ini merupakan tahap ketiga yang mana pada fase ini QA mempersiapkan test case berupa langkah langkah yang harus dijalankan untuk menguji fitur dan fungsi perangkat lunak. 
+
+![Apps](
+
+4. Enviroment set up
+Pada tahap ini, tim QA akan memastikan bahwa lingkungan pengujian telah mencerminkan lingkungan produksi yang benar termasuk menginstal perangkat lunak, konfigurasi sistem dan memastikan bahwa lingkungan pengujian bekerja dengan baik. 
+![Apps](
+
+5. Text execution 
+Pada tahap ini QA menjalankan test case yang telah dirancang sebelumnya. hasil dari pengujian ini dicatat dengan cermat termasuk  bug atau masalah yang ditemukan. jika terdapat bug, tim developer akan diminta untuk memperbaikinya sebelum dilanjutkan ke tahap berikutnya. 
+![Apps](
+
+6. Test cycle closure 
+setelah pelaksanaan testing selesai, dilakukan tahap test cycle closure. Pada tahap ini, tim QA mengevaluasi keseluruhan proses testing, termasuk hasil yang dicapai dan tantangan yang dihadapi
+![Apps](

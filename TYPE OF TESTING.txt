@@ -1,0 +1,19 @@
+TYPE OF TESTING
+Pada QA terdapat 2 jenis testing yaitu static testing dan dynamic testing 
+
+1. static testing 
+static testing merupakan jenis pengujian yang dilakukan tanpa menjalankan perangkat lunak yang diuji. pengujian ini difokuskan pada pemeriksaan kode, desain, dan dokumen perangkat lunak untuk mengidentifikasi kesalahan, kekurangan atau pelanggaran aturan yang mungkin terjadi sebelum kode dieksekusi
+
+a. code review: tim QA melakukan pemeriksaan terhadap kode program untuk mengidentifikasi bug, logika yang salah atau masalah/cacat lainnya
+b. requirement review: tim QA melalukan pemeriksaan terhadap kebutuhan atau spesifikasi fungsional untuk memastikan kejelasan, konsistensi dan kelengkapan kebutuhan
+c. desain review:tim QA dan developer melakukan pemeriksaan terhadap desain perangkat lunak untuk memastikan bahwa desain tersebut sesuai dengan kebutuhan dan standar yang ditetapkan
+d. walkthrourghs: tim QA dan developer melakukan sesi berjalan untuk membahas secara rinci kode, desain atau dokumen perangkat lunak dan mencari masalah atau kekurangan yang mungkin ada pada perangkat lunak. 
+
+contoh testing tipe static yaitu white box testing dan black box testing
+
+Dynamic Testing
+Dynamic testing adalah jenis pengujian yang dilakukan dengan menjalankan perangkat lunak yang sedang diujikan dan memeriksa perilaku serta kinerja perangkat lunak. Dynamic testing difokuskan untuk menguji bagaimana perangkat lunak bekerja dalam berbagai situasi dan kondisi yang berbeda.
+
+a. functional testing: ditujukan untuk pengujian apakah perangkat lunak berfungsi sesuai dengan kebutuhan dan spesifikasi fungsional yang telah ditetapkan. contohnya integration testing, smoke testing, regression testing, system testing dan user acceptance testing. 
+b. non functional testing: ditujukan untuk menilai karakteristik non fungsional dari prangkat lunak atau produk yang sedang diuji. 
+

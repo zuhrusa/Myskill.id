@@ -1,0 +1,20 @@
+Prinsip dasar testing
+1. Testing yang komplit tidak mungkin dilakukan. karena akan selalu ada bug bug yang akan muncul. 
+2. testing merupakan pekerjaan kreatif dan intens
+3. testing bertujuan untuk mencegah terjadinya eror ataupun eror yang terjadi sesuai pada harapan
+4. testing berbasis pada resiko mana yang berpengaruh besar terhadap sofware dan kita bisa membuat skala prioritas
+5. testing harus terencana karena eror dpt muncul dimana saja karena testing membutuhkan waktu dan resource yang cukup
+6. testing membutuhkan independensi dan tidak terdistrak oleh apapun sehingga membutuhkan independensi
+
+Testing Lyfe Cycle (STLC MODEL PHASES)
+a. requirement analysis
+b. test planning
+c. test case development
+d. enviroment setup
+e. test execution
+d. test cycle closure
+
+
+Testing proses 
+a. entry criteria : memberikan item prasyarat apa yang harus diselesaikan sebelum testing dimulai
+b. exit criteria: mendefinisikan item yang harus diselesaikan sebelum testing disimpulkan
