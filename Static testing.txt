@@ -1,0 +1,14 @@
+Static testing
+
+Static testing adalah proses pengujian perangkat lunak yang tidak melibatkan eksekusi melainkan hanya melibatkan pemeriksaan dokumen.
+
+ada 2 jenis pengujian static testing 
+1. review: pemeriksaan dokumen secara manual. dokumen yang dapat ditinjau adalah Business requirements, Functional specifications, system dan database desain, source code, test plans, test case, scripts, user guides, help text and web pages. 
+2. Static Analysis: Pengujian ini melibatkan analisis otomatis source code dan model software seperti typo, struktur, ambiguitas. 
+
+Proses static testing 
+1. Pemeriksaan dokumen
+2. Pemeriksaan kode
+3. Pemeriksaan komunikasi
+
+
