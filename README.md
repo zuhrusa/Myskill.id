@@ -1,2 +1,2 @@
 # Myskill.id
-this is the material what i studied
+these are the materials what i studied
