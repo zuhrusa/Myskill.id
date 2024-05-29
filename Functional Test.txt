@@ -1,0 +1,45 @@
+Functional Test
+
+What's Functional test?
+ Functional test adalah jenis uji software yang fokus pada validasi fungsionalitas sebuah aplikasi atau sistem perangkat lunak.
+
+Berikut adalah beberapa aspek penting dari fungsional testing:
+
+1. Fungsional testing didasarkan pada spesifikasi dan persyaratan perangkat lunak.
+2. Fungsional testing memverifikasi bahwa perangkat lunak menghasilkan output yang diharapkan untuk input tertentu.
+3. Fungsional testing biasanya dilakukan oleh tester yang tidak terlibat dalam pengembangan perangkat lunak.
+4. Fungsional testing dapat dilakukan pada tingkat-tingkat yang berbeda, seperti unit testing, testing integrasi, testing sistem, dan testing penerimaan.
+5. Fungsional testing dapat otomatis atau manual, tergantung pada kompleksitas perangkat lunak dan sumber daya yang tersedia.
+
+Berikut adalah beberapa teknik uji fungsional:
+
+1. Black box: Jenis uji ini fokus pada input dan output perangkat lunak, tanpa memikirkan kerja internal perangkat lunak.
+
+Manfaat dari Pengujian Black Box, yaitu:
+Bebas dari Implementasi
+Mudah Dipahami
+Kurang Terpengaruh Oleh Bias
+Meningkatkan Kemampuan Pengujian
+
+Teknik Pengujian Black Box, yaitu:
+
+1. Pembagian Partisi Sama
+2. Analisis Nilai Batas
+3. Tabel Keputusan
+4. Pengujian Transisi State
+5. Pengujian Use Case
+
+2. White box: Jenis uji ini fokus pada kerja internal perangkat lunak, seperti kode dan algoritme perangkat lunak.
+
+Teknik-teknik pengujian White Box meliputi:
+
+1. Pengujian Unit
+2. Pengujian Integrasi
+3. Pengujian Regresi
+4. Pengujian Performa
+5. Pengujian Keamanan
+
+3. Uji regresi: Jenis uji ini memverifikasi bahwa perubahan pada perangkat lunak tidak mengintroduksi kesalahan baru atau mempengaruhi fungsionalitas yang ada.
+4. Smoke Test: Jenis uji ini memverifikasi bahwa fungsionalitas dasar perangkat lunak bekerja dengan benar.
+5. Uji penerimaan: Jenis uji ini memverifikasi bahwa perangkat lunak memenuhi persyaratan pengguna dan siap untuk dipasang.
+
