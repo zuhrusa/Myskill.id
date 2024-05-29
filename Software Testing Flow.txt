@@ -1,0 +1,31 @@
+Software Testing Flow
+1. Requirement analysis
+2. Test Planing
+3. Test case Development
+4. Environment Setup
+5. Test Execution
+6. Test Cycle Closure
+
+Agile Development 
+Agile merupakan program pengembangan software yang berfokus pada kebutuhan pengguna dan fleksibilitas. 
+berikut ini beberapa tahapan agile
+1. Planning : Tahap ini tim akan membuat skema pengujian yang akan dijalankan berdasarkan kebutuhan yang telah ditetapkan
+2. Design: tahap design adalah tahap dimana tim mendesain test-test yang diperlukan untuk menguji perangkat lunak dengan benar dan melakukan penilaian risiko yang mungkin terjadi selama pengujian
+3. Implementation: pada tahap ini tim melakukan pengujian secara efektif dan efisien
+4. Testing: Tahap ini tim mengimplementasikan tes-tes yang telah dijalankan dan mengumpulkan hasil pengujian
+5. Review: Tim melakukan analisis dan mengidentifikasi terhadap hasil pengujian serta membuat laporan pengujian
+
+
+
+Manual Testing adalah Langkah untuk mencari kekurangan atau bug dalam perangkat lunak.
+sedangkan 
+automation testing adalah sistem pengujian perangkat lunak yang menggunakan berbagai tools otomatis
+perbedaan dari keduanya adalah pada cara melakukan pengujian. manual testing dilakukan pengujian oleh tester, sedangkan Automation test dilakukan pengujian oleh perangkat lunak atau tools otomatis.
+
+automation testing life cycle merupakan proses tahapan yang dilakukan untuk mengimplementasikan pengujian otomatis. berikut tahapan dari automation testing:
+1. Defining scope: Tahap ini melibatkan pengidentifikasian tingkatan pengujian yang akan dilakukan, serta jenis pengujian yang sesuai dengan kebutuhan proyek.
+2. Selecting tools: Pada tahap ini, akan dipilih alat-alat yang akan digunakan dalam pengujian otomatis.
+3. Planning and strategy: Tahap ini melibatkan pengembangan strategi dan rencana untuk melakukan pengujian otomatis. 
+4. Setting up the environment: Pada tahap ini, lingkungan pengujian akan disiapkan. 
+5. Script development and execution: Tahap ini melibatkan pengembangan skrip pengujian dan eksekusinya. 
+6. Result analysis: pada tahap ini, hasil pengujian akan dianalisis dan dikumpulkan

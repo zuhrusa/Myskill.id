@@ -1,0 +1,67 @@
+Apa itu test Design?
+
+Test design adalah proses pembuatan rancangan pengujian perangkat lunak. berikut beberapa prinsip penting test design:
+1. Test Representatif: Test case harus mencakup aspek-aspek yang relevan dari perangkat lunak yang akan diuji.
+2. Test Independensi: Test case harus independen dan tidak bergantung pada hasil dari test case lain.
+3. Test Reusable: Test case harus dapat digunakan kembali dalam pengujian yang sama atau pengujian lain.
+4. Test Atomic: Test case harus melakukan pengujian pada satu aspek perangkat lunak saja.
+
+Static Testing Technique
+Static techniques adalah jenis pengujian yang dilakukan tanpa melakukan eksekusi perangkat lunak. 
+Beberapa contoh dari static techniques adalah:
+1. Review kode: Pemeriksaan kode perangkat lunak untuk mencari kesalahan, kekurangan, atau kelemahan desain.
+2. Walkthrough: Pemeriksaan kode perangkat lunak dengan cara mengikuti alur algoritma dan logika perangkat lunak.
+3. Inspeksi: Pemeriksaan kode perangkat lunak yang lebih sistematis dan terstruktur dibandingkan dengan review kode dan walkthrough.
+4. Analisis static: Pemeriksaan kode perangkat lunak menggunakan alat analisis static untuk mencari kesalahan atau kekurangan pada tahap awal pengembangan perangkat lunak.
+
+Dynamic Techniques
+Dynamic techniques dalam testing adalah teknik pengujian yang memerlukan eksekusi perangkat lunak.
+
+Beriku adalah contoh dari dynamic techniques adalah:
+
+1. Unit testing: Pengujian komponen perangkat lunak terkecil, seperti fungsi atau modul.
+2. Integrasi testing: Pengujian interaksi antara beberapa komponen perangkat lunak.
+3. Sistem testing: Pengujian perangkat lunak yang komprehensif dan terintegrasi, yang meliputi semua komponen perangkat lunak dan interaksi dengan lingkungan luar.
+4. Akseptasi testing: Pengujian perangkat lunak yang dilakukan oleh pengguna atau konsumen untuk memastikan bahwa perangkat lunak sesuai dengan kebutuhan dan harapan mereka.
+
+tools yang dapat kita gunakan dalam melakukan dynamic technique adalah test case management tools, test automation tools, dan test design patterns. 
+
+Functional testing adalah sebuah teknik testing yang bertujuan untuk memastikan bahwa perangkat lunak dapat bekerja sesuai dengan kebutuhan fungsional yang telah ditetapkan. 
+
+teknik yang dapat digunakan dalam functional test:
+1. Equivalence Partitioning: Teknik ini bertujuan untuk membagi input atau data yang akan diuji menjadi beberapa kelompok yang setara. Hal ini bertujuan untuk meminimalkan jumlah test case yang dibutuhkan.
+2. Boundary Value Analysis: Teknik ini bertujuan untuk memastikan bahwa perangkat lunak atau sistem komputer bekerja dengan benar pada batas-batas input atau data.
+3. Decision Table Testing: Teknik ini bertujuan untuk memastikan bahwa perangkat lunak atau sistem komputer bekerja dengan benar pada kondisi-kondisi tertentu.
+4. State Transition Testing: Teknik ini bertujuan untuk memastikan bahwa perangkat lunak atau sistem komputer bekerja dengan benar pada perubahan state atau kondisi.
+
+Specification Based Testing adalah strategi pengujian perangkat lunak yang memerlukan pemahaman yang baik terhadap spesifikasi dan persyaratan fungsional dari perangkat lunak yang akan di uji coba.
+
+Scenario Testing adalah teknik pengujian yang menggunakan skenario penggunaan atau kasus penggunaan tertentu untuk menguji perangkat lunak.
+
+Domain Testing adalah teknik pengujian yang menggunakan partisi atau rentang nilai input untuk menguji perangkat lunak. 
+
+Test Case Generation (TCG) adalah sebuah teknik yang menggunakan otomatisasi untuk membuat test case berdasarkan pada input dan keluaran yang telah diketahui.
+
+Tes Perhitungan Error atau Tes Kesalahan dalam Penghitungan (Error Based Testing) adalah suatu teknik pengujian yang menggunakan penghitungan kesalahan dalam menguji perangkat lunak.
+
+Experience Based Testing adalah teknik pengujian yang mengacu pada pengalaman pengujian sebelumnya dan pengetahuan tentang perangkat lunak yang akan diuji.
+
+Risk Based Testing adalah teknik pengujian yang mengacu pada risiko yang terkait dengan perangkat lunak yang akan diuji. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
